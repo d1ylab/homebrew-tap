@@ -1,4 +1,4 @@
-class scls < Formula
+class Scls < Formula
   desc "Language server to enable word completion and snippets for Helix editor"
   homepage "http://github.com/d1y/scls"
   url "https://github.com/d1y/scls/releases/download/v1.0.1/scls-v1.0.1-x86_64-macos.tar.xz"
