@@ -1,9 +1,9 @@
 class scls < Formula
   desc "Language server to enable word completion and snippets for Helix editor"
   homepage "http://github.com/d1y/scls"
-  url "https://github.com/jondot/zx/releases/download/v1.0.0/zx-x86_64-macos.tar.xz"
-  version "0.0.1"
-  sha256 "4c777aa46c945c543bce3c8a53bb2d2978133bafe4f97ea2b4c107344a3569a9"
+  url "https://github.com/d1y/scls/releases/download/v1.0.1/scls-v1.0.1-x86_64-macos.tar.xz"
+  version "1.0.1"
+  sha256 "271bbbf2d05832c8e83721f734be659df67662732371775afeb7b4dc46502410"
 
   def install
     bin.install "simple-completion-language-server"
